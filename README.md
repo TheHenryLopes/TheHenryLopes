@@ -1,7 +1,7 @@
-### Olá, Me chamo Henrique Lopes
+### Olá,
 
-- 18 anos
-- Estudando JavaScript
+- Estudando JS
+- 18 anos 
 
 <div align="center">
   <a href="https://github.com/TheHenryLopes">
